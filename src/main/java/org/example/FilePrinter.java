@@ -7,7 +7,6 @@ import java.io.PrintWriter;
 
 public class FilePrinter extends PrinterDecorator{
     private PrintWriter writer;
-    private BasicPrinter printer;
 
     public FilePrinter(Printer printer) throws IOException {
         super(printer);
