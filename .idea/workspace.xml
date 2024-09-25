@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c3172c1-a2ce-415e-a286-d1626ac3e15f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/KeyGenUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="7c3172c1-a2ce-415e-a286-d1626ac3e15f" name="Changes" comment="o">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/EncryptedPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/EncryptedPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FilePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FilePrinter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +68,24 @@
       <option name="presentableId" value="Default" />
       <updated>1726578802715</updated>
       <workItem from="1726578804158" duration="3805000" />
-      <workItem from="1727208399284" duration="963000" />
+      <workItem from="1727208399284" duration="1332000" />
+      <workItem from="1727242218886" duration="320000" />
     </task>
+    <task id="LOCAL−00001" summary="o">
+      <option name="closed" value="true" />
+      <created>1727209453613</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1727209453613</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="o" />
+    <option name="LAST_COMMIT_MESSAGE" value="o" />
   </component>
 </project>
